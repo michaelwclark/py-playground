@@ -101,7 +101,7 @@ pygain-gae-server-sdk==1.0.0
 pygain-document==1.11.50
 pygain-document==1.11.55
 pygain-core==0.1.7
-pynrds-internal-core==4.1.4
+pynrds-internal-core==4.1.5
 pygain-internal-core>=0.10,<1.5
-pygain-gcp==4.1.4
-pygain-client-sdk==4.1.4
+pygain-gcp==4.1.5
+pygain-client-sdk==4.1.5
