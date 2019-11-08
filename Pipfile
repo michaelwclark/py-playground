@@ -104,4 +104,4 @@ pygain-core==0.1.7
 pynrds-internal-core>=2.3.31,<2.4.0
 pygain-internal-core>=0.10,<1.5
 pygain-gcp==1.0.3
-pygain-client-sdk==1.0.5
+pygain-client-sdk==4.1.4
