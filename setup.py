@@ -13,7 +13,7 @@ setup(
         exclude=["*.test", "*.test.*", "test.*", "test"]
     ),
     install_requires=[
-        'pygain-internal-core>=1.0,<1.2'
+        'pygain-internal-core==10.0.9'
     ],
     extras_require={
         'tests': [
